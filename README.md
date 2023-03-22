@@ -12,6 +12,7 @@ Tecnologías:
 <tr>
 :collision: Javascript | React | Hooks | Api
 <tr>
+<tr>
 :collision: Git | Github,
 <tr>
 Html,
