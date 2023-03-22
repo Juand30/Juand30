@@ -24,7 +24,7 @@ Sql,
 <tr>
 Python,
 <tr>
-Jwt
+Jwt.
 
 ## Contacto
 
