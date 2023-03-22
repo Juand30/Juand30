@@ -1,6 +1,6 @@
 ## Hello!! :wave:
 
-Hola mi nombre es Juan, soy Junior Developer:
+Hola mi nombre es Juan, desarrollador full stack:
 
 :computer: Actualmente busco un empleo donde pueda ampliar mis conocimientos y habilidades.
 <tr>
