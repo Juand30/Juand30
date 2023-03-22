@@ -9,7 +9,6 @@ Hola mi nombre es Juan, desarrollador full stack:
 ## Habilidades
 
 Tengo experiencia en:
-
 :collision: Javascript | React | Hooks | Api
 <tr>
 :collision: Git | Github,
@@ -23,6 +22,8 @@ Bootstrap,
 Sql,
 <tr>
 Python,
+<tr>
+Postman
 <tr>
 Jwt.
 
