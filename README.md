@@ -12,19 +12,19 @@ Tengo experiencia en:
 
 :collision: Javascript | React | Hooks | Api
 <tr>
-:collision: Git | Github
-
-:collision: Html
-
-:collision: Css
-
-:collision: Bootstrap
-
-:collision: Sql
-
-:collision: Python
-
-:collision: Jwt
+:collision: Git | Github,
+<tr>
+Html,
+<tr>
+Css,
+<tr>
+Bootstrap,
+<tr>
+Sql,
+<tr>
+Python,
+<tr>
+Jwt
 
 ## Contacto
 
