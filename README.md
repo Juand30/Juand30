@@ -9,9 +9,8 @@ Hola mi nombre es Juan, desarrollador full stack:
 ## Habilidades
 
 Tecnologías:
-<tr>
+
 :collision: Javascript | React | Hooks | Api
-<tr>
 <tr>
 :collision: Git | Github,
 <tr>
