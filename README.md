@@ -10,7 +10,7 @@ Desarrollador full stack:
 
 Tecnologías:
 
-:collision: Javascript | React | Hooks | Api
+:collision: Javascript | React | Hooks 
 <tr>
 :collision: Git | Github,
 <tr>
@@ -24,7 +24,9 @@ Sql,
 <tr>
 Python,
 <tr>
-Postman
+Postman,
+<tr>
+Api,
 <tr>
 Jwt.
 
