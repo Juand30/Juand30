@@ -1,6 +1,6 @@
-## Hello!! :wave:
+## Hello!! Mi Nombre es Juan Delgado :wave:
 
-Hola mi nombre es Juan, desarrollador full stack:
+Desarrollador full stack:
 
 :computer: Actualmente busco un empleo donde pueda ampliar mis conocimientos y habilidades.
 <tr>
