@@ -33,6 +33,11 @@ Api,
 Jwt.
 
 ## Contacto
-
+  
 :email: Juandp2290@gmail.com
+[![Instagram](icons/instagram.png)](https://www.instagram.com/juan20d/)
+  
+  [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
 
+  
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
