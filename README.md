@@ -32,5 +32,5 @@ Jwt.
 
 ## Contacto
 
-:phone: Juandp2290@gmail.com
+:email: Juandp2290@gmail.com
 
