@@ -1,9 +1,6 @@
 ## Hello!! Mi Nombre es Juan Delgado :wave:
 
 Desarrollador full stack:
-
-![js](https://user-images.githubusercontent.com/110668169/227001512-f0d985e6-4700-42da-858e-229687bd035f.png)
-
 :computer: Actualmente busco un empleo donde pueda ampliar mis conocimientos y habilidades.
 <tr>
 :floppy_disk: Estudié en 4Geeks Academy.
@@ -37,7 +34,6 @@ Jwt.
 :email: Juandp2290@gmail.com
 [![Instagram](icons/instagram.png)](https://www.instagram.com/juan20d/)
   
-  [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
 
   
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
