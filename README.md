@@ -34,6 +34,6 @@ Jwt.
 :email: Juandp2290@gmail.com
 [![Instagram](icons/instagram.png)](https://www.instagram.com/juan20d/)
   
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/juandelgadop/)
 
   
