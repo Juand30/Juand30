@@ -4,6 +4,12 @@ Desarrollador full stack:
 :computer: Actualmente busco un empleo donde pueda ampliar mis conocimientos y habilidades.
 <tr>
 :floppy_disk: Estudié en 4Geeks Academy.
+  
+**Social Media**
+  
+<p align="left">
+  <a href="https://www.linkedin.com/in/juandelgadop/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
+</p>
 
 ## Habilidades
 
